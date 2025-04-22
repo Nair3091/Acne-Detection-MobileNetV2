@@ -18,7 +18,7 @@ The model uses **MobileNetV2** architecture with **transfer learning** from **Im
 
 - **Acne Images**: Taken from the [ACNE04 Dataset](https://www.kaggle.com/datasets/nayanchaure/acne-dataset) on Kaggle.
 - **Clear Skin Images**: Sourced from a high-quality version of the [CelebA Dataset](https://www.kaggle.com/datasets/badasstechie/celebahq-resized-256x256) on Kaggle.
-
+- **Dataset Download**: Link to download the mized dataset for this project [Google Drive Link](https://drive.google.com/file/d/1lUca1FVgbRTpr8tAAQIBiIqDOduvLDeZ/view?usp=sharing)
 Each category contains approximately **1000 images**, resulting in a balanced dataset of around **2,000 images** total.
 
 ---
